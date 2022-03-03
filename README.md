@@ -1,7 +1,7 @@
 # titanium-p2
 P2 site code, people wanted this to be released for a while so I'm doing it.
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/titanium-p2)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thecoolmiker/titanium-p2
 
 # Local Alloy Proxy
 
